@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yourprofile/)](https://www.linkedin.com/in/jordana-izquierdo)
 
-My name is Jordana and I am studying a master of data science. Here, I want to share some of my projects and some of the wonderful things that I am learning in my career path as a data scientist. I am happy to collaborate with other projects and to connect with other data science enthusiasts. 
+My name is Jordana, Master of data science, and a Artificial Intelligence enthusiast. Here, I want to share some of my projects and some of the wonderful things that I am learning in my career path as a data scientist. I am happy to collaborate with other projects and to connect with other data science enthusiasts. 
 
 
 - 🔭 I’m currently learning about Microsoft azure AI.
