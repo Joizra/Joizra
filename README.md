@@ -3,7 +3,7 @@
 
 My name is Jordana, master of data science, and technology enthusiast. Here, I want to share some of my projects and some of the wonderful things that I am learning in my career path. I am happy to collaborate with other projects and to connect with other data science and technology enthusiasts. 
 
-- 👯 I’m looking for collaborating on technology projects.
+- 👯 I’m looking for collaborating on technology projects: System Analysis, Data Science, Data Analytics.
 - 💬 I am happy to dicuss with everyone about data science, system analysis, and data analytics.
 
 
