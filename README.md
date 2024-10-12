@@ -1,10 +1,10 @@
 ### Hello everyone 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yourprofile/)](https://www.linkedin.com/in/jordana-izquierdo)
 
-My name is Jordana, Master of data science, and a Artificial Intelligence enthusiast. Here, I want to share some of my projects and some of the wonderful things that I am learning in my career path as a data scientist. I am happy to collaborate with other projects and to connect with other data science enthusiasts. 
+My name is Jordana, master of data science, and technology enthusiast. Here, I want to share some of my projects and some of the wonderful things that I am learning in my career path. I am happy to collaborate with other projects and to connect with other data science and technology enthusiasts. 
 
-- 👯 I’m looking for collaborating on data science projects.
-- 💬 I am happy to dicuss with everyone about data science.
+- 👯 I’m looking for collaborating on technology projects.
+- 💬 I am happy to dicuss with everyone about data science, system analysis, and data analytics.
 
 
 <!--
