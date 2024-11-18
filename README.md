@@ -7,11 +7,4 @@ My name is Jordana, master of data science, and technology enthusiast. Here, I w
 - 💬 I am happy to dicuss with everyone about data science, system analysis, and data analytics.
 
 
-<!--
-My name is Jordana and I am a master of data science. I want to share some of my projects and some of the wonderful things that I am learning in my career path as a data scientist. I am happy to collaborate with other projects as well and to connect with other data science enthusiasts. 
-
-- 🔭 I’m currently learning about Microsoft azure AI and mining big data.
-- 👯 I’m looking to collaborate on data science projects.
-- 💬 I am happy to dicuss with everyone about data science.
-
--->
+Note: The case studies presented in this portfolio are strictly designed for illustrative and educational purposes. They are based on generalized scenarios or publicly available information, ensuring that no personal, sensitive, or confidential data is disclosed. 
